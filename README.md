@@ -1,4 +1,4 @@
-# WT_group2_A(Group two members)
+# WT_group2_A(Group two members BIT )
 1	Daniel HABIYAREMYE	222007495
 2	Bonheur ITANGISHAKA	222009138
 3	Yvette NIYOGITANGAZA	222010460
